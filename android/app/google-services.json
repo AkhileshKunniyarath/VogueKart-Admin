@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "532910248883",
+    "firebase_url": "https://voguekart-2602b-default-rtdb.firebaseio.com",
+    "project_id": "voguekart-2602b",
+    "storage_bucket": "voguekart-2602b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532910248883:android:5b8d814eb233a9915231c6",
+        "android_client_info": {
+          "package_name": "com.voguekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532910248883-o3hrihja56f66dgm9qs1jbcbu3hletd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voguekart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "532910248883-u55t6ugoc9ii4lf2tj9fruspv83qtup1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzc2F6KRDCDhnLWLpT5JNqyNP-c_Tq3DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532910248883-u55t6ugoc9ii4lf2tj9fruspv83qtup1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532910248883:android:657256aa162560ae5231c6",
+        "android_client_info": {
+          "package_name": "com.voguekartadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532910248883-u55t6ugoc9ii4lf2tj9fruspv83qtup1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzc2F6KRDCDhnLWLpT5JNqyNP-c_Tq3DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532910248883-u55t6ugoc9ii4lf2tj9fruspv83qtup1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
